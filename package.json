@@ -1,0 +1,23 @@
+{
+  "name": "school-4u",
+  "version": "1.0.0",
+  "description": "School 4U is a School Matching platform that matches parents with schools that meet their criteria. Parents can input their preferences, such as budget, location, and quality of service, and the platform will provide a list of schools that match their criteria.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ify-soft/School-4U.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ify-soft/School-4U/issues"
+  },
+  "homepage": "https://github.com/Ify-soft/School-4U#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
